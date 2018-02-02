@@ -1,0 +1,27 @@
+CTC-ASSIGNMENT 1
+
+Human interpreter
+
+
+Strategy A:
+Prepare bunches of flexible paper sticks with 1/4” wide and 2” long. 
+Pick three sticks to make an equilateral triangle. Each stick is one side of the triangle.
+Choose one side and use two more sticks to make a new equilateral triangle. Do the same thing to other two sides. There will be three new triangles and six new sides. Each new side could make a new triangle with two more sides. 
+Keep adding more triangles until all triangles could bent into a sphere. 
+
+Strategy B:
+Prepare bunches of flexible paper sticks with 1/4” wide and 2” long. 
+First pick six sticks and fix each stick’s end on one point. Each stick paper has one fixed end and one free end.
+Use another new stick to form an equilateral triangle with two adjacent sticks. Do the same thing to other four sticks. There will be a hexagon.
+Then add four more paper sticks on each endpoint to make sure every point has six paper sticks fixed on it.
+Repeat the step 3. Make sure every sticks are share with two equilateral triangle.
+Keep doing all steps until forming a sphere.
+
+
+What I write down
+I write down the basic element of the form and how the elements grow up. The relationship between elements in 2D is explicit.
+
+What I do not write down
+How elements grow into a sphere is implicit. This is the part where I could not give specific instruction. 
+
+If I translate these steps for computer, I need to give specific instructions about how paper sticks are bent into a sphere.
