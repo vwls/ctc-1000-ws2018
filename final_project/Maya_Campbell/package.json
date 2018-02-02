@@ -1,0 +1,14 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Obj_Bot.js",
+  "scripts": {
+    "test": "p"
+  },
+  "author": "Maya Campbell",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
