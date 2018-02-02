@@ -1,0 +1,15 @@
+{
+  "name": "bot_pg",
+  "version": "1.0.0",
+  "description": "twitter bot code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maya Campbell",
+  "license": "ISC",
+  "dependencies": {
+    "node-cmd": "^3.0.0",
+    "twit": "^2.2.9"
+  }
+}
